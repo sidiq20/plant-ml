@@ -1,7 +1,10 @@
 fastapi
+numpy
+tensorflow
 uvicorn
 scikit-learn
 joblib
 pillow
-numpy
-python-multipart
+opencv-python
+PIL 
+io
