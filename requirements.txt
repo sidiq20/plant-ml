@@ -6,5 +6,4 @@ scikit-learn
 joblib
 pillow
 opencv-python
-PIL 
 io
